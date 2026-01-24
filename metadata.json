@@ -1,0 +1,9 @@
+
+{
+  "name": "سوق النخبة - Deep Concept",
+  "description": "منصة سوق النخبة المتطورة: تجربة تداول ذكية تعتمد على الذكاء الاصطناعي، الأمان العالي، والتواجد الجغرافي العميق.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
